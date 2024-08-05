@@ -1,2 +1,2 @@
-# CTF_ehe
-Ethical Hacking Essentials CTF
+# CTF_Ethical Hacking Essentials
+
