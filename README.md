@@ -1,6 +1,6 @@
 # CTF_Ethical Hacking Essentials
 
-## Project Overview
+## Overview
 * This repository contains the CTF exercise Solution Report for the Summer Ethical Hacking Essentials Online Course. The exercise involves performing penetration testing activities on a [`target vm`](https://drive.google.com/drive/folders/1hsQKhayv7-yKMpN8Sa_K18s1RfCJIH0o), including reconnaissance, exploitation, and password cracking. The detailed steps and findings are documented in [`Final Report - Solution.pdf`](https://github.com/Prince22378/CTF_ehe/blob/main/Final%20Report%20-%20Solution.pdf).
 
 ## Problem Statement
@@ -22,8 +22,8 @@
 * **`Sqlmap`**: SQL Injection
 * **`Hydra`**: Brute force password cracking tool
 
-## Operating System Used For Attacking
-* **Kali Linux**
+### Operating System Used For Attacking
+  * **Kali Linux**
 
 ## Report Summary:
 ### Reconnaissance and Enumeration
