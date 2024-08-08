@@ -25,9 +25,39 @@
 
 ## Report Summary:
 ### Reconnaissance and Enumeration
-     * Network Scanning:
-         - Utilized `nmap` and `netdiscover` to identify the target VM and open ports.
-         - Discovered services running on the target, including Apache HTTP server and FTP.
+  * Network Scanning:
+    - Utilized `nmap` and `netdiscover` to identify the target VM and open ports.
+    - Discovered services running on the target, including Apache HTTP server and FTP.
+  * Web Server Analysis:
+    - Identified an outdated Apache HTTP srver and accessible phpMyAdmin directories.
+  * Enumeration:
+  * Vunerability Analysis:
+### Exploitation:
+  - Apache
+  - FTP
+  - http
+  - Jetty
+
+### Password Cracking
+  * BruteForce Method: making custom list of usernames and password that we get from the exploitation.
+  * SQL Injection:
+
+### Files in the Repository
+* CTF Problem Statement.pdf: Original Problem statement and requirements.
+* Final Report - Solution.pdf: Detailed report of the penetration testing ctf.
+
+
+### How to Use
+  1. Clone the Repository:
+         - git clone
+  2. Review the `Final Report - Solution.pdf` to get detailed steps and findings.
+  3. If you want to do this exercise just open the `CTF Problem Statement.pdf` in that pdf file you will get the problem statement with the `target vm` download link.
+     `target-vm` is a ova file so you just need to open that file in virtual box.
+
+
+ **Prince Kumar*
+ **prince22378@iiitd.ac.in*
+
      
 
 
