@@ -48,15 +48,15 @@
 
 
 ### How to Use
-  1. Clone the Repository:
-         - git clone
+    1. Clone the Repository:
+      - git clone https://github.com/Prince22378/CTF_ehe.git
   2. Review the `Final Report - Solution.pdf` to get detailed steps and findings.
   3. If you want to do this exercise just open the `CTF Problem Statement.pdf` in that pdf file you will get the problem statement with the `target vm` download link.
-     `target-vm` is a ova file so you just need to open that file in virtual box.
+     - `target-vm` is a ova file so you just need to open that file in virtual box.
 
 
- **Prince Kumar*
- **prince22378@iiitd.ac.in*
+ * *Prince Kumar*
+ * *prince22378@iiitd.ac.in*
 
      
 
