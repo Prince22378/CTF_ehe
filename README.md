@@ -2,7 +2,7 @@
 
 ## Overview
 * This repository contains the CTF exercise Solution Report for the Summer Ethical Hacking Essentials Online Course. The exercise involves performing penetration testing activities on a [`target vm`](https://drive.google.com/drive/folders/1hsQKhayv7-yKMpN8Sa_K18s1RfCJIH0o), including reconnaissance, exploitation, and password cracking. The detailed steps and findings are documented in [`Final Report - Solution.pdf`](https://github.com/Prince22378/CTF_ehe/blob/main/Final%20Report%20-%20Solution.pdf).
-* Instructor - Sambuddho
+- Instructor - *Sambuddho*
 
 ## Problem Statement
 * The exercise required performing the following tasks:
@@ -61,13 +61,6 @@
   3. If you want to replicate or do this exercise just open the [`CTF Problem Statement.pdf`](https://github.com/Prince22378/CTF_ehe/blob/main/CTF%20Problem%20Statement.pdf) and download [`target vm`](https://drive.google.com/drive/folders/1hsQKhayv7-yKMpN8Sa_K18s1RfCJIH0o) 
      - target-vm is a ova file so you just need to open that file in virtual box.
   
-
-
-
-
- *Prince Kumar* | *prince22378@iiitd.ac.in*
-
-     
 
 
 
