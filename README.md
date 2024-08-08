@@ -1,7 +1,7 @@
 # CTF_Ethical Hacking Essentials
 
 ## Project Overview
-* This repository contains the fina exercise solution for the Summer Ethical Hacking Essentials Online Course. The Project involves performing a series of penetration testing activities on a target virtua; machine, including reconnaissance, exploitation, and password cracking. The detailed steps and findings are documented in the attached report.
+* This repository contains the final exercise solution Report for the Summer Ethical Hacking Essentials Online Course. The Project involves performing penetration testing activities on a target virtual machine, including reconnaissance, exploitation, and password cracking. The detailed steps and findings are documented in `Final Report - Solution.pdf`.
 
 ## Problem Statement
 * The exercise required performing the following tasks:
@@ -10,28 +10,30 @@
      - identify open ports, services and potential vulnerabilities.
   2. Exploitation
      - use discovered vulnerabilities to gain access to the target machine.
-     - Employ tools ike Metasploit for exploiting services and applications.
+     - Employ tools like `Metasploit` for exploiting services and applications.
   3. Password Cracking
-     - Identify non-admin users and attempt to crack their passwords using brute force tools like Hydra.
-     - Provice detailed steps, commands and outputs for each stage.
+     - Identify non-admin users and attempt to crack their passwords using brute force tools like `Hydra`.
 
 ## Tools Used 
-* Nmap: Network scanning and enumeration
-* Nikto: Web server scanning
-* Netdiscover: Network discovery tool
-* Metasploit: Exploitation Framework
-* Sqlmap: SQL Injection
-* Hydra: Brute force password cracking tool
+* **Nmap**: Network scanning and enumeration
+* **Nikto**: Web server scanning
+* **Netdiscover**: Network discovery tool
+* **Metasploit**: Exploitation Framework
+* **Sqlmap**: SQL Injection
+* **Hydra**: Brute force password cracking tool
 
 ## Report Summary:
 ### Reconnaissance and Enumeration
-  * Network Scanning:
+  * **Network Scanning**:
     - Utilized `nmap` and `netdiscover` to identify the target VM and open ports.
     - Discovered services running on the target, including Apache HTTP server and FTP.
-  * Web Server Analysis:
-    - Identified an outdated Apache HTTP srver and accessible phpMyAdmin directories.
-  * Enumeration:
-  * Vunerability Analysis:
+  * **Web Server Analysis**:
+    - Identified an outdated Apache HTTP server and accessible phpMyAdmin directories.
+    - Performed SQL web injections.
+  * **Enumeration**:
+    - Gathering all details related to ports, thier versions.
+  * **Vunerability Analysis**:
+    
 ### Exploitation:
   - Apache
   - FTP
@@ -39,12 +41,12 @@
   - Jetty
 
 ### Password Cracking
-  * BruteForce Method: making custom list of usernames and password that we get from the exploitation.
-  * SQL Injection:
+  * BruteForce Method: Made a custom list of usernames and passwords that we get from the exploitation and using hydra we found the usernames and password related to that target vm.
+  * SQL Injection: From the database we retrieve username and password.
 
 ### Files in the Repository
-* CTF Problem Statement.pdf: Original Problem statement and requirements.
-* Final Report - Solution.pdf: Detailed report of the penetration testing ctf.
+* ``CTF Problem Statement.pdf``: Original Problem statement and requirements.
+* ``Final Report - Solution.pdf``: Detailed report of the penetration testing ctf.
 
 
 ### How to Use
