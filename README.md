@@ -45,8 +45,8 @@
   * SQL Injection: From the database we retrieve username and password.
 
 ### Files in the Repository
-* ``CTF Problem Statement.pdf``: Original Problem statement and requirements.
-* ``Final Report - Solution.pdf``: Detailed report of the penetration testing ctf.
+* [CTF Problem Statement.pdf](https://github.com/Prince22378/CTF_ehe/blob/main/CTF%20Problem%20Statement.pdf): Original Problem statement and requirements.
+* [Final Report - Solution.pdf](https://github.com/Prince22378/CTF_ehe/blob/main/Final%20Report%20-%20Solution.pdf): Detailed report of the penetration testing ctf.
 
 
 ### How to Use
